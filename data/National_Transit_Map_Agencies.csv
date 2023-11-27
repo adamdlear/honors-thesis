@@ -1,0 +1,530 @@
+﻿X,Y,OBJECTID,NTD_ID,NTAD_NTD_ID,Agency_Name,City,State,Lon,Lat,In_Latest_NTAD_Upload
+-16676841.6,8666590.544,8,12,12,Municipality of Anchorage,Anchorage,AK,-149.810617,61.177051,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-16450584.73,9560339.827,21,45,45,Fairbanks North Star Borough,Fairbanks,AK,-147.778117,64.817027,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9663528.225,3963462.617,179,40042,40042,Birmingham-Jefferson County Transit Authority,Birmingham,AL,-86.80895103,33.51200262,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9607710,3813131.87,180,40044,40044,City of Montgomery,Montgomery,AL,-86.30752738,32.37875827,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9638680.477,4127044.713,185,40071,40071,"City of Huntsville, Alabama",Huntsville,AL,-86.58573991,34.72848817,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9554202.565,3983088.865,449,40064,,East Alabama Regional Planning and Development Commission,Anniston,AL,-85.82686192,33.658876,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9507233.43,3845737.607,450,40073,,Lee-Russell Council of Governments,Opelika,AL,-85.404931,32.625783,No - Agency data not available due to processing or GTFS standard compliance errors.
+-10271308.65,4131506.773,270,60033,60033,Rock Region Metropolitan Transit Authority,North Little Rock,AR,-92.26873548,34.76142455,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10097278.94,4278421.915,278,60104,60104,City of Jonesboro,Jonesboro,AR,-90.7054,35.8385,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10358544.65,4097299.971,505,60105,,City of Hot Springs,Hot Springs National Park,AR,-93.05238983,34.50859422,No - Agency data not available due to processing or GTFS standard compliance errors.
+-12476122.69,3955096.142,357,90209,90032;90136;90209,"Valley Metro Rail, Inc.",Phoenix,AZ,-112.074917,33.449316,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-12476122.69,3955096.142,358,90136,90032;90136;90209,Regional Public Transportation Authority,Phoenix,AZ,-112.074917,33.449316,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-12476171.89,3955387.795,359,90032,90032;90136;90209,City of Phoenix Public Transit Department,Phoenix,AZ,-112.075359,33.451502,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-12353312.91,3792695.943,360,90033,90033,City of Tucson,Tucson,AZ,-110.971698,32.223588,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-12488427.47,3967012.85,361,90034,90034,City of Glendale,Glendale,AZ,-112.1854527,33.53858937,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-12422466.47,4193588.183,404,90219,90219,Northern Arizona Intergovernmental Public Transportation Authority,Flagstaff,AZ,-111.592915,35.218309,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-12275700.96,3706837.411,410,90239,90239,City of Sierra Vista,Sierra Vista,AZ,-110.274498,31.568772,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-12355990.28,3816856.611,524,90191,,Town of Oro Valley,Tucson,AZ,-110.9957492,32.40701164,No - Agency data not available due to processing or GTFS standard compliance errors.
+-12363493.08,3778794.701,529,99352,,Pascua Yaqui Tribe,Tucson,AZ,-111.063148,32.117884,No - Agency data not available due to processing or GTFS standard compliance errors.
+-13610558.29,4552655.73,337,90003,90003,San Francisco Bay Area Rapid Transit District,Oakland,CA,-122.2657254,37.81025467,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13249837.18,4217197.689,338,90004,90004,Golden Empire Transit District,Bakersfield,CA,-119.0253125,35.39139132,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13584565.13,4437788.305,339,90006,90006,Santa Cruz Metropolitan Transit District,Santa Cruz,CA,-122.0322248,36.99054027,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13190418.31,4030278.42,340,90008,90008,City of Santa Monica,Santa Monica,CA,-118.4915437,34.01099454,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13610109.62,4509899.437,341,90009,90009,San Mateo County Transit District,San Carlos,CA,-122.2616949,37.50618613,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13174064.7,4007676.014,342,90010,90010,City of Torrance,Torrance,CA,-118.3446367,33.84252115,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13501476.54,4572994.932,343,90012,90012,San Joaquin Regional Transit District,Stockton,CA,-121.2858273,37.95446282,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13574122.03,4495079.945,344,90013,90013,Santa Clara Valley Transportation Authority,San Jose,CA,-121.9384129,37.40050444,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13610914.98,4551984.708,345,90014,90014,Alameda-Contra Costa Transit District,Oakland,CA,-122.2689296,37.80549221,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13627612.06,4547672.538,346,90015,90015,City and County of San Francisco,San Francisco,CA,-122.418922,37.77488,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13635680.27,4553028.471,347,90016,90016,"Golden Gate Bridge, Highway and Transportation District",San Francisco,CA,-122.4914,37.8129,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13660290.49,4641514.981,348,90017,90017,City of Santa Rosa,Santa Rosa,CA,-122.7124773,38.43819938,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13521959.04,4660122.367,349,90019,90019,Sacramento Regional Transit District,Sacramento,CA,-121.4698248,38.56900807,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13323884.25,4085687.018,350,90020,90020,Santa Barbara Metropolitan Transit District,Santa Barbara,CA,-119.6904887,34.42258515,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13143768.58,4017533.438,351,90022,90022,City of Norwalk,Norwalk,CA,-118.0724821,33.9160372,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13154406.9,3999649.542,352,90023,90023,Long Beach Transit,Long Beach,CA,-118.1680477,33.78261346,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13041452.09,3856381.733,353,90026,90026,San Diego Metropolitan Transit System,San Diego,CA,-117.1533574,32.70627702,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13336772.86,4403262.304,354,90027,90027,City of Fresno,Fresno,CA,-119.806269,36.74240769,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13066362.05,3921524.483,355,90030,90030,North County Transit District,Oceanside,CA,-117.3771274,33.19732155,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13063781.34,4026521.214,356,90031,90031,Riverside Transit Agency,Riverside,CA,-117.3539445,33.98301225,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13263611.12,4059290.155,362,90035,90035,Gold Coast Transit District,Oxnard,CA,-119.1490459,34.22675263,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13120927.26,3999276.231,363,90036,90036,Orange County Transportation Authority,Orange,CA,-117.867295,33.77982613,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13179790.34,4031721.275,364,90039,90039,City of Culver City,Culver City,CA,-118.396071,34.02173795,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13148567.03,4031392.162,365,90041,90041,City of Montebello,Montebello,CA,-118.1155873,34.01928751,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13152994.44,4028854.926,366,90043,90043,City of Commerce,Commerce,CA,-118.1553594,34.00039396,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13215592.04,4067620.668,368,90050,90050,City of Simi Valley,Simi Valley,CA,-118.7176832,34.28860422,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13088386.84,4012473.851,369,90052,90052,City of Corona,Corona,CA,-117.5749794,33.87831103,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13535266.02,4744404.874,370,90061,90061,Yuba-Sutter Transit Authority,Marysville,CA,-121.5893634,39.15852814,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13560864.96,4380485.803,371,90062,90062,Monterey-Salinas Transit,Monterey,CA,-121.8193226,36.57827607,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13583762.72,4580933.863,372,90078,90078,Central Contra Costa Transit Authority,Concord,CA,-122.0250167,38.01067444,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-12956963.11,4003780.608,373,90079,90079,SunLine Transit Agency,Thousand Palms,CA,-116.39438,33.813452,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13407170.97,4157457.293,374,90087,90087,City of Santa Maria,Santa Maria,CA,-120.438666,34.952716,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13612123.93,4621525.496,375,90088,90088,Napa Valley Transportation Authority,Napa,CA,-122.2797898,38.29741007,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13661785.25,4645387.651,376,90089,90089,County of Sonoma,Santa Rosa,CA,-122.725905,38.46544357,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13280298.03,4346016.087,377,90091,90091,City of Visalia,Visalia,CA,-119.298947,36.32921623,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13585816.24,4615032.32,378,90092,90092,"City of Fairfield, California",Fairfield,CA,-122.0434638,38.25161863,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13550937.33,4656516.603,379,90142,90142,"University of California, Davis",Davis,CA,-121.7301412,38.54367835,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13558764.71,4536085.858,380,90144,90144,Livermore / Amador Valley Transit Authority,Livermore,CA,-121.8004557,37.69256306,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13127514.48,4038334.608,381,90146,90146,Foothill Transit,West Covina,CA,-117.926469,34.070963,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13163051.77,4035731.115,382,90147,90147,City of Los Angeles,Los Angeles,CA,-118.2457059,34.05158782,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13056666.36,4085843.273,383,90148,90148,Victor Valley Transit Authority,Hesperia,CA,-117.2900295,34.42374301,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13408747.05,4114908.638,384,90149,90149,City of Lompoc,Lompoc,CA,-120.4528242,34.63884017,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13164568.82,4035533.285,385,90151,90151,Southern California Regional Rail Authority,Los Angeles,CA,-118.2593338,34.05011539,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13161553.74,4036220.354,386,90154,90154,Los Angeles County Metropolitan Transportation Authority,Los Angeles,CA,-118.2322489,34.05522907,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13432059.98,4202351.435,387,90156,90156,City of San Luis Obispo,San Luis Obispo,CA,-120.6622478,35.28259599,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13615792.68,4580195.667,388,90159,90159,Western Contra Costa Transit Authority,Pinole,CA,-122.3127467,38.00544946,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13584021.45,4521498.186,389,90161,90161,City of Union City,Union City,CA,-122.0273409,37.58879564,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13558095.39,4581160.062,390,90162,90162,The Eastern Contra Costa Transit Authority,Antioch,CA,-121.7944431,38.01227541,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13230079.8,4052412.009,391,90165,90165,City of Thousand Oaks,Thousand Oaks,CA,-118.8478289,34.17565017,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13501302.38,4685752.02,392,90168,90168,City of Roseville,Roseville,CA,-121.2842628,38.74879358,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13411857.99,4481242.735,393,90173,90173,Transit Joint Powers Authority for Merced County,Merced,CA,-120.4807702,37.30169292,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13499601.95,4598376.34,394,90175,90175,City of Lodi,Lodi,CA,-121.2689876,38.13402465,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13500780.5,4573280.479,395,90182,90182,Altamont Corridor Express,Stockton,CA,-121.2795747,37.95648538,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13481685.18,4713561.488,396,90196,90196,County of Placer,Auburn,CA,-121.1080385,38.94335906,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13248824.8,4310309.239,397,90198,90198,City of Porterville,Porterville,CA,-119.0162181,36.07037536,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13365419.89,4433852.163,398,90199,90199,City of Madera,Madera,CA,-120.0636097,36.96229259,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13433278.11,4199163.831,399,90206,90206,San Luis Obispo Regional Transit Authority,San Luis Obispo,CA,-120.6731904,35.25921771,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13560817.63,4823037.923,400,90208,90208,Butte County Association of Governments,Chico,CA,-121.8188974,39.704116,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13125427.64,4004275.893,401,90211,90211,Anaheim Transportation Network,Anaheim,CA,-117.9077226,33.81714857,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13178897.28,4007920.704,402,90214,90214,City of Redondo Beach,Redondo Beach,CA,-118.3880485,33.8443468,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13624939.5,4550742.494,405,90225,90225,San Francisco Bay Area Water Emergency Transportation Authority,San Francisco,CA,-122.394914,37.796675,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13609734.08,4593666.47,406,90232,90232,Solano County Transit,Vallejo,CA,-122.2583214,38.10073776,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13638768.41,4575147.214,407,90234,90234,Marin County Transit District,San Rafael,CA,-122.5191412,37.96970631,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13469714.54,4528789.377,408,90236,90236,Stanislaus County,Modesto,CA,-121.0005044,37.64067865,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13274710.09,4268874.516,409,90238,90238,City of Delano,Delano,CA,-119.2487497,35.76894177,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13172526.74,3940269.818,411,90249,90249,City of Avalon,Avalon,CA,-118.330821,33.338117,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13169966.19,4053227.952,412,90256,90256,City of Burbank,Burbank,CA,-118.3078192,34.18171399,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13207744.22,4049506.116,413,90257,90257,City of Calabasas,Calabasas,CA,-118.647185,34.154051,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13160675.11,4014788.823,414,90260,90260,City of Compton,Compton,CA,-118.224356,33.8955744,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13120690.72,4047085.455,415,90266,90266,City of Glendora,Glendora,CA,-117.8651701,34.13605428,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13175105.9,4015061.018,416,90280,90280,City of Lawndale,Lawndale,CA,-118.35399,33.897604,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13149726.09,4036833.301,417,90286,90286,City of Monterey Park,Monterey Park,CA,-118.1259993,34.05979082,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13647604.73,4604902.017,418,90299,90299,Sonoma-Marin Area Rail Transit District,Petaluma,CA,-122.5985192,38.18011963,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13334052.93,4088571.15,419,90303,90303,Santa Barbara County Association of Governments,Santa Barbara,CA,-119.7818355,34.44395418,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13432672.83,4230623.625,525,90194,,City of Atascadero,Atascadero,CA,-120.6677531,35.48965217,No - Agency data not available due to processing or GTFS standard compliance errors.
+-13495393.93,4551091.392,526,90217,,City of Manteca,Manteca,CA,-121.2311863,37.79915158,No - Agency data not available due to processing or GTFS standard compliance errors.
+-13150590.03,4008610.14,527,90301,,City of Lakewood,Lakewood,CA,-118.1337602,33.84949052,No - Agency data not available due to processing or GTFS standard compliance errors.
+-12764115.45,4140233.187,528,99316,,Chemehuevi Indian Tribe,Havasu Lake,CA,-114.662,34.8258,No - Agency data not available due to processing or GTFS standard compliance errors.
+-11666834.87,4695826.602,310,80005,80005,City of Colorado Springs,Colorado Springs,CO,-104.8049608,38.8193406,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11688374.7,4829837.635,311,80006,80006,Denver Regional Transportation District,Denver,CO,-104.9984564,39.75109431,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11645911.17,4619056.284,312,80007,80007,City of Pueblo,Pueblo,CO,-104.617,38.28,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11654732.29,4927524.701,314,80010,80010,"Greeley, City Of",Greeley,CO,-104.6962415,40.42246292,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11697543.59,4951894.529,315,80011,80011,City of Fort Collins,Fort Collins,CO,-105.0808219,40.58891513,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-12085252.76,4731461.136,316,80016,80016,County of Mesa,Grand Junction,CO,-108.5636727,39.06831009,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11696398.05,4923417.223,317,80025,80025,"City of Loveland, Colorado",Loveland,CO,-105.0705314,40.39436712,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11712067.63,4869714.949,320,80285,80285,Via Mobility Services,Boulder,CO,-105.2112936,40.02595667,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11743614.11,4837198.373,321,8R01-80119,8R01-80119,City of Black Hawk,Black Hawk,CO,-105.4946805,39.80191259,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11804774.77,4791003.5,322,8R01-80161,8R01-80161,Summit County,Breckenridge,CO,-106.044096,39.482364,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11805201.3,4790981.234,323,8R01-80170,8R01-80170,Town of Breckenridge,Breckenridge,CO,-106.0479276,39.48220962,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11982107.16,4456544.527,324,8R01-80189,8R01-80189,"Southern Colorado Community Action Agency, Inc.",Ignacio,CO,-107.6371,37.125,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-12009056.23,4477319.163,325,8R01-80206,8R01-80206,City of Durango,Durango,CO,-107.8791876,37.27365103,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11555131.25,4902183.983,326,8R01-80221,8R01-80221,Northeast Colorado Association of Local Governments,Fort Morgan,CO,-103.8015101,40.24894139,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-12006588.09,4570099.874,327,8R01-80256,8R01-80256,Town of Mountain Village,Telluride,CO,-107.8570159,37.93395364,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11708090.57,4685458.695,328,8R01-80275,8R01-80275,City of Cripple Creek,Cripple Creek,CO,-105.1755671,38.74673853,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11727886.84,4603440.706,329,8R01-80289,8R01-80289,Roaring Fork Transportation Authority,Glenwood Springs,CO,-105.3534,38.1698,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-12055582.03,4598034.753,330,8R01-88214,8R01-88214,San Miguel County,Norwood,CO,-108.297136,38.131611,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-12010610.87,4649041.655,331,8R01-88215,8R01-88215,Montrose County Seniors,Montrose,CO,-107.8931532,38.49114001,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-12001430.43,4570678.923,332,8R01-88226,8R01-88226,Town of Telluride,Telluride,CO,-107.8106839,37.9380562,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11490396.93,4588739.255,333,8R01-88229,8R01-88229,Bent County,Las Animas,CO,-103.2199918,38.06589855,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11766279.56,4823199.33,334,8R01-88299,8R01-88299,Clear Creek County,Georgetown,CO,-105.6982877,39.70523151,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11891992.31,4815463.623,519,8R01-80155,,Eagle County Regional Transportation Authority,Eagle,CO,-106.8275845,39.65174848,No - Agency data not available due to processing or GTFS standard compliance errors.
+-11908905.68,4465652.409,520,8R01-80280,,Archuleta County Transportation/Mountain Express Transit,Pagosa Springs,CO,-106.9795199,37.19020666,No - Agency data not available due to processing or GTFS standard compliance errors.
+-8088220.393,5128742.153,56,10056,10048;10055;10056,Connecticut Department of Transportation - CTTRANSIT Stamford Division,Hartford,CT,-72.65772,41.784427,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8088220.393,5128742.153,57,10055,10048;10055;10056,Connecticut Department of Transportation - CTTRANSIT New Haven Division,Hartford,CT,-72.65772,41.784427,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8088220.393,5128742.153,58,10048,10048;10055;10056,Connecticut Department of Transportation - CTTRANSIT - Hartford Division,Hartford,CT,-72.65772,41.784427,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8173440.479,5024123.627,59,10057,10057,Norwalk Transit District,Norwalk,CT,-73.42326506,41.07982943,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8087380.598,5095519.961,61,10063,10063,Middletown Transit District,Middletown,CT,-72.650176,41.561507,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8060969.224,5063920.151,69,10140,10140,Estuary Transit District,Centerbrook,CT,-72.41291859,41.34875707,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8573708.379,4706988.065,108,30030,30030,Washington Metropolitan Area Transit Authority,Washington,DC,-77.01893278,38.89741695,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8575158.253,4709802.254,137,30112,30112,DDOT - Progressive Transportation Services Administration,Washington,DC,-77.03195722,38.91708915,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8405608.976,4744022.833,123,30075,30075,Delaware Transit Corporation,Dover,DE,-75.50887015,39.15586696,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9113700.375,3078800.087,170,40028,40028,Lee County Transit,Fort Myers,FL,-81.86976342,26.64187915,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8921531.76,3014184.837,171,40029,40029,Broward County Board of County Commissioners,Fort Lauderdale,FL,-80.14348338,26.12188553,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9164174.441,3458891.16,172,40030,40030,"City of Gainesville, FL",Gainesville,FL,-82.32317967,29.65196485,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8927457.255,2971959.789,173,40034,40034,County of Miami-Dade,Miami,FL,-80.196713,25.78082,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9059390.393,3318310.035,174,40035,40035,Central Florida Regional Transportation Authority,Orlando,FL,-81.38188855,28.54854168,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9382227.797,3560167.583,175,40036,40036,City of Tallahassee,Tallahassee,FL,-84.28198629,30.43948519,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8912925.386,3091363.749,176,40037,40037,"Board of County Commissioners, Palm Beach County",West Palm Beach,FL,-80.066171,26.742713,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9092174.367,3546155.39,177,40040,40040,Jacksonville Transportation Authority,Jacksonville,FL,-81.676392,30.330901,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9177855.015,3243966.32,178,40041,40041,Hillsborough Area Regional Transit Authority,Tampa,FL,-82.44607435,27.96027517,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9143058.839,3399259.084,191,40120,40120,"City of Ocala, Florida",Ocala,FL,-82.13349499,29.18535729,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9636763.889,3601009.18,192,40128,40128,Okaloosa County Board of County Commissioners,Crestview,FL,-86.56852291,30.7552875,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9102040.476,3014697.79,194,40140,40140,Collier County,Naples,FL,-81.76502076,26.12602274,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9180736.872,3309484.089,197,40146,40146,Hernando County Board of County Commissioners,Brooksville,FL,-82.47196252,28.47887388,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9098187.113,3350500.855,199,40158,40158,Lake County Board of County Commissioners,Tavares,FL,-81.73040541,28.80224975,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9537017.632,3525156.067,204,40185,40185,Bay County Transportation Planning Organization,Panama City,FL,-85.67248704,30.1679461,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9381472.534,3559913.307,208,40232,40232,Central Florida Commuter Rail,Tallahassee,FL,-84.27520165,30.43751582,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9188019.218,3165381.187,446,40046,,Sarasota County,Sarasota,FL,-82.53738094,27.3349434,No - Agency data not available due to processing or GTFS standard compliance errors.
+-8939017.495,2997475.193,465,40241,,City of Miramar,Miramar,FL,-80.30056041,25.98703445,No - Agency data not available due to processing or GTFS standard compliance errors.
+-8933644.749,3032852.845,467,40253,,City of Coral Springs,Coral Springs,FL,-80.25229621,26.27235724,No - Agency data not available due to processing or GTFS standard compliance errors.
+-8923289.028,3000322.342,468,40255,,City of Hollywood,Hollywood,FL,-80.15926918,26.01002263,No - Agency data not available due to processing or GTFS standard compliance errors.
+-8915688.392,3027713.246,469,40257,,City of Pompano Beach,Pompano Beach,FL,-80.09099151,26.23094939,No - Agency data not available due to processing or GTFS standard compliance errors.
+-8921650.94,3005557.309,470,40261,,City of Dania Beach,Dania,FL,-80.14455399,26.05227856,No - Agency data not available due to processing or GTFS standard compliance errors.
+-8944251.472,3176779.844,473,41199,,Board of County Commissioners of St. Lucie County,Fort Pierce,FL,-80.34757802,27.42586813,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9391739.698,4004892.551,169,40022,40022,Metropolitan Atlanta Rapid Transit Authority,Atlanta,GA,-84.36743315,33.82175079,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9284040.804,4024270.849,181,40047,40047,Athens-Clarke County Unified Government,Athens,GA,-83.39995753,33.96624794,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9411949.865,4022627.89,186,40078,40078,Cobb County,Marietta,GA,-84.54898417,33.95400647,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9350118.608,4022389.275,193,40138,40138,Gwinnett County Board of Commissioners,Lawrenceville,GA,-83.99354454,33.95222844,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9280810.376,4021390.193,203,40180,40180,University of Georgia,Athens,GA,-83.3709381,33.9447834,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9369210.829,3708299.332,444,40021,,City of Albany,Albany,GA,-84.16505288,31.57996052,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9126986.712,3958713.896,445,40023,,Augusta Richmond County Transit Department,Augusta,GA,-81.98911661,33.47642794,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9393785.511,3996795.841,454,40135,,Georgia Regional Transportation Authority,Atlanta,GA,-84.385811,33.761304,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9393977.704,3996876.449,458,40176,,Atlanta Regional Commission,Atlanta,GA,-84.3875375,33.761906,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9083126.44,3743188.316,461,40193,,"City of Hinesville, Georgia",Hinesville,GA,-81.59511309,31.84657727,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9382703.623,4014241.616,466,40246,,"Center for Pan Asian Community Services, Inc.",Atlanta,GA,-84.28626071,33.89149404,No - Agency data not available due to processing or GTFS standard compliance errors.
+-17572367.31,2428129.721,336,90002,90002,City and County of Honolulu,Honolulu,HI,-157.8552613,21.30370914,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10075449.53,5090123.904,288,70007,70007,City of Bettendorf,Bettendorf,IA,-90.5093031,41.52522674,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10204632.61,5157685.23,289,70008,70008,City of Cedar Rapids,Cedar Rapids,IA,-91.66977441,41.97800474,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10082876.83,5089873.395,290,70009,70009,City of Davenport,Davenport,IA,-90.57602366,41.52354195,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10422201.82,5098860.755,291,70010,70010,Des Moines Area Regional Transit Authority,Des Moines,IA,-93.62423189,41.58395854,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10093093.14,5236986.07,292,70011,70011,City of Dubuque,Dubuque,IA,-90.66779832,42.5053796,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10731585.74,5235481.829,293,70012,70012,City of Sioux City,Sioux City,IA,-96.40347495,42.49541696,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10278018.37,5234591.671,294,70013,70013,Metropolitan Transit Authority of Black Hawk County,Waterloo,IA,-92.32900989,42.48952067,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10189064.06,5110191.335,296,70018,70018,City of Iowa City,Iowa City,IA,-91.5299198,41.6600467,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10191510.89,5110780.402,297,70019,70019,University of Iowa,Iowa City,IA,-91.5519,41.664,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10195056.91,5112934.736,298,70030,70030,City of Coralville,Iowa City,IA,-91.58375444,41.67845594,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10423174.99,5164348.483,299,70041,70041,Ames Transit Agency,Ames,IA,-93.632974,42.022487,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10341302.06,5168333.178,301,7R01-70092,7R01-70092,Marshalltown Municipal Transit,Marshalltown,IA,-92.897497,42.049073,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10135083.83,5074835.257,302,7R01-70101,7R01-70101,City of Muscatine,Muscatine,IA,-91.0450071,41.42232336,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10484836.01,5236798.753,303,7R01-70108,7R01-70108,"Doger Area Rapids Transit, City of Fort Dodge",Fort Dodge,IA,-94.18688438,42.50413908,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10146272.48,4984010.908,304,7R01-70111,7R01-70111,Burlington Urban Service,Burlington,IA,-91.14551644,40.80764701,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10284464.45,5012465.859,305,7R01-70118,7R01-70118,Ottumwa Transit,Ottumwa,IA,-92.386916,41.000842,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10039985.34,5137020.131,306,7R01-70173,7R01-70173,Clinton Municipal Transit Administration,Clinton,IA,-90.19072284,41.83985183,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10375108.44,5335245.841,307,7R01-70260,7R01-70260,City of Mason City,Mason City,IA,-93.20118487,43.15271664,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10421970.86,5164399.494,426,7R01,,Iowa Department of Transportation,Ames,IA,-93.62215713,42.02282742,No - Agency data not available due to processing or GTFS standard compliance errors.
+-10147520.36,4985239.485,514,7R01-70116,,Burlington Stage Lines,West Burlington,IA,-91.15672636,40.81600009,No - Agency data not available due to processing or GTFS standard compliance errors.
+-12956490.34,5405312.817,7,11,11,Valley Regional Transit,Meridian,ID,-116.390133,43.61017562,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-12517720.21,5292810.445,14,22,22,City of Pocatello,Pocatello,ID,-112.4485939,42.87398328,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13026482.28,5847618.947,23,48,48,City of Lewiston,Lewiston,ID,-117.0188813,46.41818596,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13000627.37,6053137.981,25,55,55,Kootenai County,Coeur d'Alene,ID,-116.7866227,47.6761024,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-12935852.03,5404207.996,422,416,,Boise State University,Boise,ID,-116.2047359,43.60298916,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9911429.644,4938614.76,231,50047,50047,Bloomington-Normal Public Transit System,Normal,IL,-89.03588737,40.4982621,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9970534.372,4969342.811,234,50056,50056,Greater Peoria Mass Transit District,Peoria,IL,-89.56683417,40.70783754,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10076342.25,5087605.604,235,50057,50057,Rock Island County Metropolitan Mass Transit District,Moline,IL,-90.51732251,41.50828804,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9979100.211,4835975.964,236,50059,50059,Springfield Mass Transit District,Springfield,IL,-89.64378241,39.79347572,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9817641.631,4882785.27,237,50060,50060,Champaign-Urbana Mass Transit District,Urbana,IL,-88.19337531,40.11580655,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9756281.935,5143873.044,238,50066,50066,Chicago Transit Authority,Chicago,IL,-87.64217178,41.88569892,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9794893.135,5168122.77,244,50113,50113,Pace - Suburban Bus Division,Arlington Heights,IL,-87.98902209,42.04766943,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9754955.001,4884043.311,251,50174,50174,City of Danville,Danville,IL,-87.63025173,40.1244485,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9858300.595,4542626.085,256,50211,50211,Rides Mass Transit District,Harrisburg,IL,-88.558621,37.739039,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10060156.02,5004251.052,259,5R01-50502,5R01-50502,City of Galesburg,Galesburg,IL,-90.37191916,40.94512549,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9756247.865,5142724.071,481,50118,,Northeast Illinois Regional Commuter Railroad Corporation,Chicago,IL,-87.64186573,41.8780144,No - Agency data not available due to processing or GTFS standard compliance errors.
+-10027196.66,4687542.641,483,50146,,Madison County Transit District,Pontoon Beach,IL,-90.0758402,38.76133746,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9779873.804,5040686.964,484,50159,,River Valley Metro Mass Transit District,Bourbonnais,IL,-87.85410115,41.19189159,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9961087.619,5137449.755,494,5R01-50250,,Lee County,Dixon,IL,-89.48197255,41.84272705,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9893798.043,4490932.334,495,5R01-50315,,Shawnee Mass Transit District,Vienna,IL,-88.8775,37.3709,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9937786.162,4971361.404,496,5R01-50329,,Woodford County,Eureka,IL,-89.272652,40.721582,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9976829.88,5205581.372,497,5R01-50412,,City of Freeport,Freeport,IL,-89.62338768,42.29705595,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9979460.498,4948986.389,498,5R01-50420,,Tazewell County,Pekin,IL,-89.64701893,40.56907349,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9815599.428,4792759.738,499,5R01-50447,,Coles County,Charleston,IL,-88.17502989,39.4945396,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9722475.767,5101824.573,230,50045,50045,Gary Public Transportation Corporation,Gary,IN,-87.33848581,41.60387012,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9594441.631,4832156.638,232,50050,50050,Indianapolis and Marion County Public Transportation,Indianapolis,IN,-86.1883356,39.76710868,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9672736.089,4928443.237,233,50051,50051,Greater Lafayette Public Transportation Corporation,Lafayette,IN,-86.89166668,40.42874425,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9686409.275,5110314.158,242,50104,50104,Northern Indiana Commuter Transportation District,Chesterton,IN,-87.014495,41.660871,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9601571.244,5112448.277,248,50149,50149,Michiana Area Council of Governments,South Bend,IN,-86.252382,41.675192,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9565150.846,4751126.874,252,50177,50177,City of Columbus,Columbus,IN,-85.925212,39.205335,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9591053.313,4832891.647,255,50209,50209,Central Indiana Regional Transportation Authority,Indianapolis,IN,-86.15789782,39.77218366,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9542348.733,4882041.458,478,50041,,City of Anderson,Anderson,IN,-85.72037713,40.11069651,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9601662.437,5110172.379,479,50052,,South Bend Public Transportation Corporation,South Bend,IN,-86.2532012,41.65991948,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9742900.174,5102070.366,480,50103,,North Township of Lake County,Hammond,IN,-87.52196138,41.60552113,No - Agency data not available due to processing or GTFS standard compliance errors.
+-10649854.57,4730389.658,295,70014,70014,Topeka Metropolitan Transit Authority,Topeka,KS,-95.66927131,39.0608367,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10601616.86,4717822.286,300,70048,70048,City of Lawrence,Lawrence,KS,-95.23594465,38.97312218,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10835640.18,4536095.491,510,70015,,City of Wichita,Wichita,KS,-97.33821184,37.69263153,No - Agency data not available due to processing or GTFS standard compliance errors.
+-10781442.62,4553664.154,512,70056,,"Butler, County of",El Dorado,KS,-96.85134687,37.81741121,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9405020.637,4588289.858,167,40017,40017,Lexington Transit Authority,Lexington,KY,-84.48673786,38.06272014,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9409735.05,4727215.978,168,40019,40019,Transit Authority of Northern Kentucky,Covington,KY,-84.52908815,39.03869613,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9547700.177,4614394.087,443,40018,,Transit Authority of River City,Louisville,KY,-85.76844997,38.2471161,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9622788.072,4438125.588,459,40184,,City of Bowling Green,Bowling Green,KY,-86.44297601,36.99296029,No - Agency data not available due to processing or GTFS standard compliance errors.
+-10436884.17,3833857.977,269,60024,60024,City of Shreveport,Shreveport,LA,-93.75612567,32.53586018,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10294184.42,3675868.418,503,60025,,City of Alexandria,Alexandria,LA,-92.474232,31.331442,No - Agency data not available due to processing or GTFS standard compliance errors.
+-7911383.246,5213785.004,49,10003,10003,Massachusetts Bay Transportation Authority,Boston,MA,-71.06916488,42.35154163,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-7938569.496,5256875.895,50,10005,10005,Lowell Regional Transit Authority,Lowell,MA,-71.31338312,42.63696128,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-7895573.311,5106646.113,51,10006,10006,Southeastern Regional Transit Authority,New Bedford,MA,-70.92714182,41.63624915,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8154575.863,5228871.046,52,10007,10007,Berkshire Regional Transit Authority,Pittsfield,MA,-73.25380133,42.45161471,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8082603.54,5178601.29,53,10008,10008,Pioneer Valley Transit Authority,Springfield,MA,-72.60726295,42.11753087,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-7913688.482,5276498.943,54,10013,10013,Merrimack Valley Regional Transit Authority,Haverhill,MA,-71.08987317,42.76650601,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-7990058.491,5245176.879,60,10061,10061,Montachusett Regional Transit Authority,Fitchburg,MA,-71.77591663,42.55959974,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-7913670.6,5143570.488,62,10064,10064,Greater Attleboro-Taunton Regional Transit Authority,Taunton,MA,-71.08971253,41.88367546,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-7823276.723,5110293.604,66,10105,10105,Cape Cod Regional Transit Authority,Hyannis,MA,-70.27769052,41.66073306,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-7949417.449,5202426.882,68,10118,10118,MetroWest Regional Transit Authority,Framingham,MA,-71.41083194,42.27609236,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8528621.721,4763377.29,109,30034,30034,Maryland Transit Administration,Baltimore,MD,-76.61391244,39.29055734,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8514814.191,4718320.091,111,30040,30040,City of Annapolis,Annapolis,MD,-76.48987729,38.9765987,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8652065.14,4814230.67,112,30042,30042,Washington County,Hagerstown,MD,-77.72282354,39.64322028,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8617296.449,4781341.008,120,30072,30072,"Frederick County, Maryland",Frederick,MD,-77.41049108,39.41533801,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8498952.283,4798540.819,122,30074,30074,Harford County Maryland,Bel Air,MD,-76.34738735,39.53460346,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8554502.11,4708873.226,129,30085,30085,"Prince George's County, Maryland",Largo,MD,-76.84639993,38.91059551,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8569481.964,4654616.345,130,30088,30088,"County Commissioners of Charles County, MD",La Plata,MD,-76.98096625,38.53032585,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8528217.511,4763377.928,142,30201,30201,City of Baltimore,Baltimore,MD,-76.61028136,39.29056178,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8549790.6,4740079.404,143,30205,30205,"Transit Management of Central Maryland, Inc.",Savage,MD,-76.80407572,39.1283924,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8539154.606,4745156.882,159,3R06-31026,3R06-31026,"Dillion's Bus Service, Inc.",Hanover,MD,-76.70853096,39.16376609,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-7823275.513,5411316.849,55,10016,10016,Greater Portland Transit District,Portland,ME,-70.27767965,43.64921464,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-7820191.179,5412636.503,65,10088,10088,Casco Bay Island Transit District,Portland,ME,-70.24997261,43.65779181,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-7820350.515,5409510.282,67,10112,10112,City of South Portland,South Portland,ME,-70.25140395,43.63747077,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-7821329.008,5477457.236,428,10015,,Lewiston-Auburn Transit Committee,Auburn,ME,-70.2601939,44.07758974,No - Agency data not available due to processing or GTFS standard compliance errors.
+-7655589.055,5590688.507,429,10096,,City of Bangor,Bangor,ME,-68.77132657,44.80381269,No - Agency data not available due to processing or GTFS standard compliance errors.
+-7822958.08,5476011.359,430,10098,,"Western Maine Transportation Services, Inc.",Auburn,ME,-70.2748281,44.06825806,No - Agency data not available due to processing or GTFS standard compliance errors.
+-7841616.279,5388608.083,431,10114,,Biddeford-Saco-Old Orchard Beach Transit Committee Shuttle Bus,Saco,ME,-70.44243756,43.50142578,No - Agency data not available due to processing or GTFS standard compliance errors.
+-7548391.97,5809926.461,433,11140,,Houlton Band of Maliseet Indians,Houlton,ME,-67.80835877,46.18426074,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9244671.805,5210441.692,224,50031,50031,Suburban Mobility Authority for Regional Transportation,Detroit,MI,-83.04629979,42.32934221,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9312361.449,5314115.328,225,50032,50032,Mass Transportation Authority,Flint,MI,-83.65436621,43.01408076,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9537113.552,5305547.181,226,50033,50033,Interurban Transit Partnership,Grand Rapids,MI,-85.6733487,42.95777633,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9527266.932,5205482.239,227,50035,50035,Central County Transportation Authority,Kalamazoo,MI,-85.58489501,42.29639725,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9410344.278,5264432.943,228,50036,50036,Capital Area Transportation Authority,Lansing,MI,-84.53456094,42.68688236,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9321006.031,5198447.102,229,50040,50040,Ann Arbor Area Transportation Authority,Ann Arbor,MI,-83.73202181,42.24963424,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9244478.833,5210376.64,246,50119,50119,City of Detroit,Detroit,MI,-83.04456629,42.32891019,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9244671.805,5210441.692,247,50141,50141,Detroit Transportation Corporation,Detroit,MI,-83.04629979,42.32934221,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9322364.426,5202368.388,250,50158,50158,University of Michigan Parking and Transportation Services,Ann Arbor,MI,-83.74422448,42.27570356,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9584317.488,5280209.105,253,50184,50184,Macatawa Area Express Transportation Authority,Holland,MI,-86.09738887,42.79096886,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9247806.675,5216869.265,257,50213,50213,M-1 Rail,Detroit,MI,-83.07446081,42.37201402,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9336615.297,5404768.647,476,50029,,Bay Metropolitan Transit Authority,Bay City,MI,-83.87224223,43.6066361,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9392206.288,5195866.309,477,50034,,City of Jackson Transportation Authority,Jackson,MI,-84.3716246,42.23247084,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9285686.366,5148371.48,491,50522,,Lake Erie Transportation Commission,Monroe,MI,-83.41473986,41.9157763,No - Agency data not available due to processing or GTFS standard compliance errors.
+-10255591.17,5903567.568,219,50025,50025,Duluth Transit Authority,Duluth,MN,-92.127543,46.76356916,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10772524.5,5921701.385,220,50026,50026,City of Moorhead,Moorhead,MN,-96.77123403,46.87504102,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10402214.97,5599408.803,221,50518,50027;50518;50515,SouthWest Transit,Eden Prairie,MN,-93.444687,44.859367,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10377974.42,5617602.462,222,50515,50027;50518;50515,University of Minnesota Transit,Minneapolis,MN,-93.2269304,44.97510076,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10383827.18,5619054.205,223,50027,50027;50518;50515,Metro Transit,Minneapolis,MN,-93.27950662,44.98432557,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10464453.92,5491041.405,254,50205,50205,City of Mankato,Mankato,MN,-94.003789,44.16519,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10383550.09,5586588.187,258,50519,50519,Minnesota Valley Transit Authority,Burnsville,MN,-93.27701745,44.77767231,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10387989.79,6150837.78,492,55252,,Bois Forte Reservation Tribal Council,Nett Lake,MN,-93.3169,48.2637,No - Agency data not available due to processing or GTFS standard compliance errors.
+-10528408.67,4735972.114,285,70271,70005;70271,"Kansas City, City of Missouri",Kansas City,MO,-94.57830424,39.09976479,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10527208.27,4734758.147,286,70005,70005;70271,Kansas City Area Transportation Authority,Kansas City,MO,-94.56752087,39.09130127,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10039835.25,4668396.203,287,70006,70006,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,Saint Louis,MO,-90.18937457,38.62709625,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10385091.24,4469451.053,509,70003,,City of Springfield,Springfield,MO,-93.29086192,37.21738592,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9965936.524,4483145.321,511,70050,,Southeast Missouri State University,Cape Girardeau,MO,-89.525531,37.315287,No - Agency data not available due to processing or GTFS standard compliance errors.
+-10050999.24,4672287.625,513,70057,,Loop Trolley Transportation Development District,Saint Louis,MO,-90.28966236,38.65440053,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9939785.032,3675118.862,448,40060,,City of Hattiesburg,Hattiesburg,MS,-89.29060815,31.32569035,No - Agency data not available due to processing or GTFS standard compliance errors.
+-12691457.22,5923027.851,313,80009,80009,Missoula Urban Transportation District,Missoula,MT,-114.0093,46.88318598,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11760658.79,6121130.401,516,80018,,Fort Peck Tribes,Wolf Point,MT,-105.6477954,48.08573768,No - Agency data not available due to processing or GTFS standard compliance errors.
+-11639223.85,6236568.566,521,8R02-80254,,"Glen-wood, Inc.",Plentywood,MT,-104.5569268,48.77381057,No - Agency data not available due to processing or GTFS standard compliance errors.
+-11607062.22,5839477.251,522,8R02-88217,,Fallon County,Baker,MT,-104.268014,46.367742,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9191184.928,4244430.658,163,40005,40005,City of Asheville,Asheville,NC,-82.565819,35.590577,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8754417.364,4270168.796,164,40007,40007,City of Raleigh,Raleigh,NC,-78.64226922,35.77837491,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8781301.227,4171283.589,165,40009,40009,City of Fayetteville,Fayetteville,NC,-78.88377107,35.05445326,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8905853.135,4294519.479,166,40011,40011,City of High Point,High Point,NC,-80.00263989,35.95564188,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8800547.058,4289207.564,182,40051,40051,Town of Chapel Hill,Chapel Hill,NC,-79.05665931,35.91700627,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8776442.724,4283431.833,189,40108,40108,Research Triangle Regional Public Transportation Authority,Durham,NC,-78.84012639,35.87497572,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8769880.494,4271621.331,196,40143,40143,Town of Cary,Cary,NC,-78.78117688,35.78896012,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8763370.878,4274193.348,198,40147,40147,North Carolina State University,Raleigh,NC,-78.7227,35.8077,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8970398.765,4219697.111,201,40167,40167,City of Concord,Concord,NC,-80.58246315,35.40969301,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8900877.708,4313498.537,202,40173,40173,Piedmont Authority for Regional Transportation,Greensboro,NC,-79.95794487,36.09352955,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9189124.71,4245168.167,207,40224,40224,Buncombe County,Asheville,NC,-82.54731175,35.59596437,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8842781.944,4313186.869,209,40252,40252,City Of Burlington,Burlington,NC,-79.43606174,36.09126715,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8618531.947,4129873.188,456,40166,,City of Jacksonville,Jacksonville,NC,-77.42158975,34.74936788,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9044619.216,4259621.353,457,40172,,Western Piedmont Regional Transit Authority,Conover,NC,-81.24919681,35.70146912,No - Agency data not available due to processing or GTFS standard compliance errors.
+-8966828.439,4161655.136,462,40215,,Union County,Monroe,NC,-80.55039037,34.98361813,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9037202.201,4199789.148,463,40221,,Gaston County,Gastonia,NC,-81.18256863,35.26380439,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9235616.174,4232878.515,464,40226,,"Mountain Projects, Inc.",Waynesville,NC,-82.96495167,35.50614334,No - Agency data not available due to processing or GTFS standard compliance errors.
+-8775118.104,4276188.447,472,40274,,Town of Morrisville,Morrisville,NC,-78.82822713,35.82223337,No - Agency data not available due to processing or GTFS standard compliance errors.
+-10680582.08,5051949.588,284,70002,70002,Transit Authority of Omaha,Omaha,NE,-95.94530126,41.26798147,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-7892645.133,5339487.452,64,10086,10086,Cooperative Alliance for Seacoast Transportation,Dover,NH,-70.90083755,43.18050776,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-7881798.377,5322488.264,432,10122,,"Jalbert Leasing, Inc.",Portsmouth,NH,-70.80339948,43.06905256,No - Agency data not available due to processing or GTFS standard compliance errors.
+-8255386.646,4972994.564,82,20080,20080,New Jersey Transit Corporation,Newark,NJ,-74.1594,40.7327,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8239000.892,4969729.074,84,20098,20098,Port Authority Trans-Hudson Corporation,New York,NJ,-74.01220427,40.7104678,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8245487.732,5002270.781,88,20149,20149,"Rockland Coaches, Inc.",Paramus,NJ,-74.07047655,40.93168736,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11871968.49,4175532.692,268,60019,60019,City of Albuquerque,Albuquerque,NM,-106.6477075,35.08569377,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11798858.92,4253783.52,274,60077,60077,City of Santa Fe,Santa Fe,NM,-105.990953,35.65887113,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11872931.69,4175600.323,279,60111,60111,Rio Metro Regional Transit District,Albuquerque,NM,-106.65636,35.08619092,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11795478.33,4284939.691,280,66248,66224;66248;66218;66206,Pueblo of Nambe',Santa Fe,NM,-105.9605847,35.8859507,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11808782.72,4299768.295,281,66224,66224;66248;66218;66206,Pueblo of Santa Clara,Espanola,NM,-106.0801,35.9938,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11812091.7,4287625.58,282,66218,66224;66248;66218;66206,Pueblo of San Ildefonso,Santa Fe,NM,-106.1098251,35.90549624,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11792062.19,4266926.241,283,66206,66224;66248;66218;66206,Tesuque Pueblo,Santa Fe,NM,-105.929897,35.75474,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13333563.02,4795655.339,335,90001,90001,Regional Transportation Commission of Washoe County,Reno,NV,-119.7774345,39.51460949,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-12819046.98,4323392.011,367,90045,90045,Regional Transportation Commission of Southern Nevada,Las Vegas,NV,-115.1554583,36.16531241,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13328671.48,4744906.329,403,90215,90215,Carson Area Metropolitan Planning Organization,Carson City,NV,-119.7334931,39.16202096,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13334516.5,4797219.254,523,90011,,Reno-Sparks Indian Colony,Reno,NV,-119.7859998,39.52544683,No - Agency data not available due to processing or GTFS standard compliance errors.
+-8213238.138,5263209.035,77,20002,20002,Capital District Transportation Authority,Albany,NY,-73.78077351,42.67880007,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8780083.945,5294206.155,78,20004,20004,Niagara Frontier Transportation Authority,Buffalo,NY,-78.87283604,42.883171,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8246067.146,4959466.371,79,20099,20008;20099,Staten Island Rapid Transit Operating Authority,Staten Island,NY,-74.07568151,40.64054863,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8236221.725,4967219.774,80,20008,20008;20099,MTA New York City Transit,Brooklyn,NY,-73.98723859,40.69337886,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8234906.324,4975876.41,81,20078,20078,"Metro-North Commuter Railroad Company, dba: MTA Metro-North Railroad",New York,NY,-73.97542214,40.7523141,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8238652.57,4968781.338,83,20082,20082,New York City Department of Transportation,New York,NY,-74.00907524,40.704014,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8215923.886,4968720.545,85,20100,20100,MTA Long Island Rail Road,Jamaica,NY,-73.8049,40.7036,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8635621.632,5336535.523,86,20113,20113,Regional Transit Service - Monroe County,Rochester,NY,-77.575109,43.161168,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8516587.218,5229050.214,87,20145,20145,Tompkins Consolidated Area Transit,Ithaca,NY,-76.50580466,42.45280226,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8477357.305,5317288.992,89,20185,20172;20185;20018;20116,"Centro of Oneida, Inc.",Syracuse,NY,-76.15339636,43.03492298,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8477357.305,5317288.992,90,20172,20172;20185;20018;20116,"Centro of Oswego, Inc.",Syracuse,NY,-76.15339636,43.03492298,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8477357.305,5317288.992,91,20116,20172;20185;20018;20116,"Centro of Cayuga, Inc.",Syracuse,NY,-76.15339636,43.03492298,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8477065.622,5317482.812,92,20018,20172;20185;20018;20116,Central New York Regional Transportation Authority,Syracuse,NY,-76.15077613,43.03619561,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8239657.754,5150934.276,93,20178,20178,Ulster County,Kingston,NY,-74.01810496,41.9329053,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8239110.18,4969064.578,94,20188,20188,MTA Bus Company,New York,NY,-74.01318602,40.70594285,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8238416.657,4969480.185,95,22930,22930,New York City Economic Development Corporation,New York,NY,-74.006956,40.708773,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8450293.307,5175550.11,435,20003,,Broome County,Binghamton,NY,-75.91027633,42.09719626,No - Agency data not available due to processing or GTFS standard compliance errors.
+-8233845.89,5067006.6,436,20182,,Town of Highlands,Highland Falls,NY,-73.9658961,41.36956775,No - Agency data not available due to processing or GTFS standard compliance errors.
+-8237541.241,5150040.937,437,20191,,City of Kingston Citibus,Kingston,NY,-73.999092,41.926935,No - Agency data not available due to processing or GTFS standard compliance errors.
+-8766841.244,5184507.975,438,22929,,Seneca Nation of Indians,Salamanca,NY,-78.75387483,42.15687749,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9407961.185,4736272.812,214,50012,50012,Southwest Ohio Regional Transit Authority,Cincinnati,OH,-84.51315325,39.10186103,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9094741.842,5086468.042,215,50015,50015,The Greater Cleveland Regional Transit Authority,Cleveland,OH,-81.69945602,41.50063507,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9239610.442,4860593.434,216,50016,50016,Central Ohio Transit Authority,Columbus,OH,-83.00083279,39.96318203,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9052484.153,5032737.598,217,50021,50021,Portage Area Regional Transportation Authority,Kent,OH,-81.31984874,41.13813265,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8979256.837,5027378.338,218,50024,50024,Western Reserve Transit Authority,Youngstown,OH,-80.66203657,41.10186486,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9366647.043,4961328.699,240,50093,50093,Lima Allen County Regional Transit Authority,Lima,OH,-84.142022,40.653242,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9048419.643,5120896.05,245,50117,50117,Laketran,Painesville,OH,-81.28333662,41.7318495,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9408395.668,4775243.015,249,50157,50157,Butler County Regional Transit Authority,Hamilton,OH,-84.51705628,39.37300475,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9076630.998,5020215.448,475,50010,,METRO Regional Transit Authority,Akron,OH,-81.53676354,41.05336005,No - Agency data not available due to processing or GTFS standard compliance errors.
+-8974369.72,4918241.371,482,50142,,Steel Valley Regional Transit Authority,Steubenville,OH,-80.61813485,40.35894676,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9374873.849,4875976.658,485,50169,,"Miami County, Ohio",Troy,OH,-84.21592465,40.0690166,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9239759.624,4858827.756,487,50191,,Mid-Ohio Regional Planning Commission,Columbus,OH,-83.00217292,39.9510239,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9201910.41,4994856.286,488,50195,,City of Shelby,Shelby,OH,-82.66216764,40.8813483,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9113163.255,5033777.987,489,50198,,Medina County Public Transit,Medina,OH,-81.86493839,41.14517097,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9247017.295,4910125.667,490,50199,,Delaware County Transit Board,Delaware,OH,-83.06736969,40.30337038,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9408588.812,4736625.299,493,55311,,City of Cincinnati,Cincinnati,OH,-84.51879132,39.10431823,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9137494.983,4792917.172,500,5R05-50278,,Athens Transit,Glouster,OH,-82.08351402,39.49563095,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9237478.865,4769717.994,501,5R05-50429,,Chillicothe Transit System,Chillicothe,OH,-82.98168451,39.33462697,No - Agency data not available due to processing or GTFS standard compliance errors.
+-10847643.74,4193952.336,265,66341,60017;66341,City of Norman,Norman,OK,-97.44604168,35.22098143,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10860948.03,4224571.206,266,60017,60017;66341,Central Oklahoma Transportation and Parking Authority,Oklahoma City,OK,-97.56555617,35.44537097,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10683513.29,4321856.156,267,60018,60018,Metropolitan Tulsa Transit Authority,Tulsa,OK,-95.97163275,36.1541732,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10847605.7,4191611.356,276,60096,60096,University of Oklahoma,Norman,OK,-97.4457,35.2038,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10851379.1,4253124.32,506,60118,,City of Edmond,Edmond,OK,-97.47959703,35.6540596,No - Agency data not available due to processing or GTFS standard compliance errors.
+-13696922.39,5471929.262,5,7,7,Lane Transit District,Eugene,OR,-123.0415473,44.0419043,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13656424.13,5702211.253,6,8,8,Tri-County Metropolitan Transportation District of Oregon,Portland,OR,-122.6777452,45.51025284,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13696280.58,5612147.416,16,25,25,Salem Area Mass Transit District,Salem,OR,-123.0357818,44.94042451,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13676223.71,5215607.129,18,34,34,Rogue Valley Transportation District,Medford,OR,-122.8556079,42.36363715,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13721643.63,5553132.484,22,47,47,City of Corvallis,Corvallis,OR,-123.263622,44.56394296,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13730315.81,5225063.522,26,59,59,Josephine County,Grants Pass,OR,-123.3415255,42.42637261,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13704213.5,5564285.483,27,61,61,City of Albany,Albany,OR,-123.1070444,44.63528067,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13178562.57,5768877.518,28,63,63,City of Milton-Freewater,Milton-Freewater,OR,-118.3850418,45.92836772,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13721514.89,5553452.256,30,65,65,Benton County,Corvallis,OR,-123.2624655,44.56598953,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13643464.76,5704760.385,31,376,376,"Ride Connection, Inc.",Portland,OR,-122.5613292,45.52629792,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13784166,5693644.473,32,0R02-00296,0R02-00296,Tillamook County Transportation District,Tillamook,OR,-123.82527,45.45629717,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13644036.08,5644385.048,33,0R02-00301,0R02-00301,South Clackamas Transportation District,Molalla,OR,-122.5664615,45.14504639,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13825892.06,5366307.971,34,0R02-00307,0R02-00307,Coos County Area Transit,Coos Bay,OR,-124.2001015,43.35594352,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13835992.66,5169470.489,35,0R02-00308,0R02-00308,Curry County Public Transit Service District,Brookings,OR,-124.2908368,42.05665913,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13808370.08,5564845.022,36,0R02-00310,0R02-00310,Lincoln County Transportation Service District,Newport,OR,-124.0426989,44.63885733,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13248833.91,5517275.78,37,0R02-00313,0R02-00313,Grant County Transportation District,John Day,OR,-119.0163,44.334,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13713801.09,5654872.199,38,0R02-00321,0R02-00321,Yamhill County,Mcminnville,OR,-123.1931712,45.2114537,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13019235.35,5469279.459,39,0R02-00323,0R02-00323,Malheur Council on Aging and Community Services,Ontario,OR,-116.953781,44.02479106,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13656047.19,5663712.275,40,0R02-00330,0R02-00330,City of Canby,Canby,OR,-122.6743591,45.26737116,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13555172.06,5193716.046,41,0R02-00339,0R02-00339,Basin Transit Service,Klamath Falls,OR,-121.7681824,42.21816709,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13143622.82,5671344.935,42,0R02-00343,0R02-00343,Community Connection of Northeast Oregon,La Grande,OR,-118.0711727,45.3156069,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13661463.04,5526640.763,43,0R02-00348,0R02-00348,"Senior Citizens of Sweet Home, Inc.",Sweet Home,OR,-122.7230105,44.39414339,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13731412.81,5344481.554,44,0R02-00351,0R02-00351,Douglas County,Roseburg,OR,-123.35138,43.213213,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13676624.54,5643970.037,45,0R02-00360,0R02-00360,City of Woodburn,Woodburn,OR,-122.8592086,45.14241684,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13669731.78,5758505.892,46,0R02-00375,0R02-00375,Columbia County,St. Helens,OR,-122.7972899,45.86352487,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13609835.42,5684141.233,47,0R02-00389,0R02-00389,City of Sandy,Sandy,OR,-122.2592317,45.39638298,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13694904.74,5612263.422,423,0R02,,Oregon Department of Transportation,Salem,OR,-123.0234224,44.94116215,No - Agency data not available due to processing or GTFS standard compliance errors.
+-8401778.076,4951682.663,100,30010,30010,Lehigh and Northampton Transportation Authority,Allentown,PA,-75.47445659,40.58746981,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8728725.233,4937777.873,101,30011,30011,Altoona Metro Transit,Altoona,PA,-78.41147288,40.49254507,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8783119.315,4914760.051,102,30012,30012,Cambria County Transit Authority,Johnstown,PA,-78.90010323,40.33511227,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8448539.17,5049804.346,103,30015,30015,Luzerne County Transportation Authority,Kingston,PA,-75.89451865,41.25349512,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8366824.363,4858966.497,104,30019,30019,Southeastern Pennsylvania Transportation Authority,Philadelphia,PA,-75.16046205,39.95197932,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8905398.563,4930345.732,105,30022,30022,Port Authority of Allegheny County,Pittsburgh,PA,-79.9985564,40.44175243,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8937303.866,4968263.408,106,30023,30023,Beaver County Transit Authority,Rochester,PA,-80.28516662,40.70048679,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8575774.015,5047371.289,107,30026,30026,City of Williamsport,Williamsport,PA,-77.03748871,41.23706133,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8957316.815,5047737.63,115,30055,30055,City of Sharon,Sharon,PA,-80.464946,41.239536,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8895011.065,4887115.547,117,30061,30061,Mid Mon Valley Transit Authority,Charleroi,PA,-79.90524392,40.14554822,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8457638.178,5005556.757,133,30093,30093,City of Hazleton,Hazleton,PA,-75.97625643,40.95398451,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8932783.737,4891058.175,136,30111,30111,Washington County Transportation Authority,Washington,PA,-80.24456161,40.17261608,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8384992.287,5023878.016,139,30137,30137,Monroe County Transportation  Authority,Swiftwater,PA,-75.32366729,41.07816627,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8495681.678,4875175.24,439,30018,,Red Rose Transit Authority,Lancaster,PA,-76.318007,40.063507,No - Agency data not available due to processing or GTFS standard compliance errors.
+-8874737.225,4851623.346,440,30087,,County of Fayette,Uniontown,PA,-79.72312092,39.90139326,No - Agency data not available due to processing or GTFS standard compliance errors.
+-7354125.235,2090765.977,451,40086,,Metropolitan Bus Authority,San Juan,PR,-66.063231,18.454072,No - Agency data not available due to processing or GTFS standard compliance errors.
+-7360426.364,2089317.997,455,40163,,Municipality of Catano,Catano,PR,-66.119835,18.441733,No - Agency data not available due to processing or GTFS standard compliance errors.
+-7399236.5,2076947.224,471,40268,,Municipality of Ciales,Ciales,PR,-66.46847239,18.33627908,No - Agency data not available due to processing or GTFS standard compliance errors.
+-7950850.68,5130078.968,48,10001,10001,Rhode Island Public Transit Authority,Providence,RI,-71.42370688,41.79338083,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8873810.794,4054820.387,183,40056,40056,Pee Dee Regional Transportation Authority,Florence,SC,-79.71479865,34.19354719,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8908048.901,3881764.147,190,40110,40110,Charleston Area Regional Transportation Authority,North Charleston,SC,-80.02236479,32.89793336,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9020073.624,4029728.565,195,40141,40141,Central Midlands Regional Transportation Authority,Columbia,SC,-81.0287,34.0069,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8906431.229,3920819.231,205,40206,40206,Berkeley Charleston Dorchester RTMA,Moncks Corner,SC,-80.007833,33.19202,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9220496.088,4121858.068,206,40208,40208,City of Clemson,Clemson,SC,-82.82912563,34.69018681,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9172785.633,4143512.566,447,40053,,Greenville Transit Authority,Greenville,SC,-82.40053532,34.84997925,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9120702.15,4156884.992,452,40101,,Spartanburg Transit System,Spartanburg,SC,-81.93266143,34.94850215,No - Agency data not available due to processing or GTFS standard compliance errors.
+-8799996.153,4006328.095,453,40102,,Waccamaw Regional Transportation Authority,Conway,SC,-79.05171044,33.83246353,No - Agency data not available due to processing or GTFS standard compliance errors.
+-10767793.47,5395653.85,309,80002,80002,Su Tran LLC,Sioux Falls,SD,-96.72873448,43.54731851,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11168740.59,5521003.098,517,80298,,Community Coordinated Transportation System,Pierre,SD,-100.3305038,44.35794482,No - Agency data not available due to processing or GTFS standard compliance errors.
+-11271844.28,5621631.688,518,88158,,Cheyenne River Sioux Tribe,Eagle Butte,SD,-101.2567,45.0007,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9341639.094,4295300.29,160,40002,40002,City of Knoxville,Knoxville,TN,-83.91737177,35.96131943,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10020588.96,4188477.194,161,40003,40003,City of Memphis,Memphis,TN,-90.0164822,35.18079139,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9650231.602,4338256.611,162,40004,40004,Metropolitan Transit Authority,Madison,TN,-86.68950543,36.27304017,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9888087.353,4246747.514,184,40057,40057,Jackson Transit Authority,Jackson,TN,-88.8262,35.6075,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9190428.021,4376329.925,187,40080,40080,City of Kingsport,Kingsport,TN,-82.55901959,36.54829032,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9722064.346,4371749.152,188,40092,40092,City of Clarksville,Clarksville,TN,-87.33478995,36.51522536,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9670545.374,4289945.653,200,40162,40162,City of Franklin,Franklin,TN,-86.87198715,35.92237581,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9492311.826,4171502.444,442,40001,,Chattanooga Area Regional Transportation Authority,Chattanooga,TN,-85.27088795,35.05606263,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9617212.828,4279324.313,460,40186,,City of Murfreesboro,Murfreesboro,TN,-86.39289274,35.84507133,No - Agency data not available due to processing or GTFS standard compliance errors.
+-11853890.34,3732013.433,260,60006,60006,City of El Paso,El Paso,TX,-106.4853087,31.76126385,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10836172.43,3861732.725,261,60007,60007,Fort Worth Transportation Authority,Fort Worth,TX,-97.34299312,32.7467154,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10616572.49,3471477.647,262,60008,60008,"Metropolitan Transit Authority of Harris County, Texas",Houston,TX,-95.37029336,29.75017677,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11337404.63,3973644.271,263,60010,60010,City of Lubbock,Lubbock,TX,-101.8456386,33.58822842,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10965254.6,3432396.918,264,60011,60011,VIA Metropolitan Transit,San Antonio,TX,-98.50255801,29.44491795,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10877106.71,3536563.405,271,60048,60048,Capital Metropolitan Transportation Authority,Austin,TX,-97.71071205,30.25650066,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10850836.74,3219259.284,272,60051,60051,Corpus Christi Regional Transportation Authority,Corpus Christi,TX,-97.47472487,27.76405758,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10775804.62,3866392.205,273,60056,60056,Dallas Area Rapid Transit,Dallas,TX,-96.80069986,32.78191296,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10989283.11,3657361.122,275,60091,60091,Hill Country Transit District,San Saba,TX,-98.71840976,31.18932529,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10795269.66,3897527.047,277,60101,60101,Denton County Transportation Authority,Lewisville,TX,-96.97555731,33.01674691,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10852978.54,2986745.327,502,60014,,City of Brownsville,Brownsville,TX,-97.493965,25.90036,No - Agency data not available due to processing or GTFS standard compliance errors.
+-10727479.7,3594270.466,504,60059,,Brazos Transit District,Bryan,TX,-96.36658974,30.70325223,No - Agency data not available due to processing or GTFS standard compliance errors.
+-10955067.62,3441436.968,507,60130,,Alamo Area Council of Governments,San Antonio,TX,-98.41104683,29.51561169,No - Agency data not available due to processing or GTFS standard compliance errors.
+-10628640.49,3526170.459,508,60134,,The Woodlands Township,The Woodlands,TX,-95.478702,30.175824,No - Agency data not available due to processing or GTFS standard compliance errors.
+-12457874.83,4977739.159,308,80001,80001,Utah Transit Authority,Salt Lake City,UT,-111.9109937,40.76498906,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-12641783.99,4454763.417,318,80026,80026,City of St. George,St. George,UT,-113.5630778,37.11224181,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-12451436.69,5122559.36,319,80028,80028,Cache Valley Transit District,Logan,UT,-111.8531589,41.7429991,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-12463107.14,4964067.412,427,8R06,,Utah Department of Transportation,Salt Lake City,UT,-111.9579963,40.67190431,No - Agency data not available due to processing or GTFS standard compliance errors.
+-8624901.009,4509792.069,96,30006,30006,Greater Richmond Transit Company,Richmond,VA,-77.478804,37.505421,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8897468.756,4477434.279,97,30007,30007,Greater Roanoke Transit Company,Roanoke,VA,-79.92732173,37.27447392,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8811537.879,4491649.3,98,30008,30008,Greater Lynchburg Transit Company,Lynchburg,VA,-79.15539153,37.37601833,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8616711.756,4471097.532,99,30009,30009,City of Petersburg,Petersburg,VA,-77.40523869,37.22916342,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8737268.016,4581137.821,110,30036,30036,City of Charlottesville,Charlottesville,VA,-78.488214,38.012118,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8735432.704,4581561.921,113,30045,30045,"JAUNT, Inc.",Charlottesville,VA,-78.47172711,38.01511957,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9148336.287,4383264.442,114,30053,30053,City of Bristol Virginia,Bristol,VA,-82.18090311,36.59831819,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8605798.479,4698971.401,116,30058,30058,City of Fairfax,Fairfax,VA,-77.30720306,38.84134768,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8604546.574,4669068.616,118,30070,30070,Potomac and Rappahannock Transportation Commission,Woodbridge,VA,-77.295957,38.631815,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8576346.124,4693709.715,119,30071,30071,City of Alexandria,Alexandria,VA,-77.04262805,38.80452294,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8577815.47,4693948.598,121,30073,30073,Virginia Railway Express,Alexandria,VA,-77.05582741,38.80619521,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8534742.251,4474933.285,124,30076,30076,Williamsburg Area Transit Authority,Williamsburg,VA,-76.6688941,37.25659398,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8622686.667,4621972.989,125,30079,30079,City of Fredericksburg,Fredericksburg,VA,-77.45891223,38.30056484,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8581055.366,4706129.818,126,30080,30080,"Arlington County, Virginia",Arlington,VA,-77.08493189,38.89141641,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8634106.91,4738002,127,30081,30081,Loudoun County,Leesburg,VA,-77.56150202,39.11391445,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8501005.54,4441013.438,128,30083,30083,Transportation District Commission of Hampton Roads,Hampton,VA,-76.36583207,37.01367759,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8951466.485,4470916.107,132,30091,30091,Town of Blacksburg,Blacksburg,VA,-80.41239159,37.22786575,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8779763.913,4642517.993,134,30094,30094,City of Harrisonburg,Harrisonburg,VA,-78.86996114,38.44525655,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8701189.666,4748039.277,135,30099,30099,City of Winchester,Winchester,VA,-78.16411667,39.18383921,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9069279.037,4418960.013,138,30123,30123,District Three Governmental Cooperative,Marion,VA,-81.47071975,36.85532439,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8525843.14,4401487.608,140,30198,30198,City of Suffolk,Suffolk,VA,-76.58895203,36.72963148,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8970369.959,4457560.588,141,30200,30200,City of Radford,Radford,VA,-80.58220438,37.13227714,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8800646.422,4603218.324,144,30989,30989,Central Shenandoah Planning District Commission,Staunton,VA,-79.05755191,38.16822943,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8837821.536,4381695.71,145,3R06-30069,3R06-30069,City of Danville Mass Transit System,Danville,VA,-79.39150164,36.58700368,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8427999.198,4537530.1,146,3R06-30114,3R06-30114,Accomack-Northhampton Transportation District Comm,Tasley,VA,-75.71000494,37.70282859,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8970007.963,4458562.651,147,3R06-30115,3R06-30115,Pulaski Area Transit,Radford,VA,-80.57895252,37.13945334,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8651572.825,4742283.924,148,3R06-30125,3R06-30118;3R06-30120;3R06-30125,VRT-Staunton Region,Purcellville,VA,-77.718401,39.143753,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8735411.318,4581578.514,149,3R06-30120,3R06-30118;3R06-30120;3R06-30125,VRT-NoVA Loudoun Region,Purcellville,VA,-78.471535,38.015237,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8651597.155,4742326.354,150,3R06-30118,3R06-30118;3R06-30120;3R06-30125,Virginia Regional Transit,Purcellville,VA,-77.71861956,39.14404861,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8826532.59,4454430.498,151,3R06-30157,3R06-30157,Town of Altavista,Altavista,VA,-79.29009131,37.10985685,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9046485.57,4472070.299,152,3R06-30164,3R06-30164,Town of Bluefield/Graham Transit,Bluefield,VA,-81.26596255,37.2361209,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8725373.575,4481425.353,153,3R06-30165,3R06-30165,Farmville Area Bus,Farmville,VA,-78.38136442,37.30299784,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8525242.211,4528162.708,154,3R06-30172,3R06-30172,Bay Transit,Urbanna,VA,-76.58355379,37.63622079,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9104834.205,4440262.514,155,3R06-30174,3R06-30174,Four County Transit,Cedar Bluff,VA,-81.79011726,37.00829104,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8903616.792,4478567.165,156,3R06-30178,3R06-30178,"Unified Human Services Transportation Systems, Inc",Roanoke,VA,-79.98255048,37.28257167,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8673725.292,4462424.037,157,3R06-30184,3R06-30184,Blackstone Area Bus Service,Blackstone,VA,-77.9174,37.1671,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8628853.628,4402520.261,158,3R06-31025,3R06-31025,Greensville Emporia Transit System,Emporia,VA,-77.51431098,36.73706591,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8620461.59,4514616.33,425,3R06,,Virginia Department of Rail and Public Transportation,Richmond,VA,-77.43892402,37.5397922,No - Agency data not available due to processing or GTFS standard compliance errors.
+-8389056.085,4570363.577,441,3R06-30147,,Town of Chincoteague,Chincoteague,VA,-75.360173,37.935822,No - Agency data not available due to processing or GTFS standard compliance errors.
+-8150750.748,5534789.794,63,10066,10066,Green Mountain Transit Authority,Burlington,VT,-73.21943974,44.4464275,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8050495.09,5417037.481,70,1R04-10137,1R04-10137,"Advance Transit, Inc. NH",White River Junction,VT,-72.31882784,43.68638737,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8066042.322,5338027.11,71,1R06-10141,1R06-10141,"Connecticut River Transit, Inc.",Bellows Falls,VT,-72.458491,43.170941,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8144218.626,5465545.035,72,1R06-10143,1R06-10143,Tri-Valley Transit Inc,Middlebury,VT,-73.16076069,44.00066462,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8112664.885,5292030.093,73,1R06-10144,1R06-10144,"Southeast Vermont Transit, Inc",Wilmington,VT,-72.87730861,42.86884576,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8016679.589,5543349.07,74,1R06-10148,1R06-10148,Rural Community Transportation,Lyndonville,VT,-72.01505803,44.50129339,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8147850.561,5293585.212,75,1R06-10151,1R06-10151,Green Mountain Community Network,Bennington,VT,-73.19338692,42.87908361,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8123855.702,5403647.847,76,1R06-10154,1R06-10154,Marble Valley Regional Transit District,Rutland,VT,-72.97783743,43.59934527,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-8070551.943,5493962.001,424,1R06,,Vermont Agency of Transportation,Barre,VT,-72.49900162,44.18400709,No - Agency data not available due to processing or GTFS standard compliance errors.
+-8089132.322,5453456.084,434,1R06-10168,,"Stagecoach Transportation Services, Inc.",Randolph,VT,-72.665912,43.922496,No - Agency data not available due to processing or GTFS standard compliance errors.
+-13617877.4,6040431.738,1,1,1,King County Department of Metro Transit,Seattle,WA,-122.3314741,47.59919151,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13635168.13,5969889.033,2,3,3,Pierce County Transportation Benefit Area Authority,Tacoma,WA,-122.4867993,47.17013652,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13603090.98,6102887.22,3,5,5,City of Everett,Everett,WA,-122.1986454,47.97614554,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13414599.04,5877716.674,4,6,6,City of Yakima,Yakima,WA,-120.5053935,46.60425941,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13685272.17,5802639.534,9,16,16,RiverCities Transit,Longview,WA,-122.9368916,46.13892168,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13273702.37,5818607.682,10,18,18,Ben Franklin Transit,Richland,WA,-119.2396972,46.23822629,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13676607.95,5949450.9,11,19,19,Intercity Transit,Olympia,WA,-122.8590596,47.04517499,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13650610.21,6034563.876,12,20,20,Kitsap Transit,Bremerton,WA,-122.6255179,47.56363513,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13630842.66,6238932.366,13,21,21,Whatcom Transportation Authority,Bellingham,WA,-122.447943,48.78780278,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13648316.53,5722901.328,15,24,24,Clark County Public Transportation Benefit Area Authority,Vancouver,WA,-122.6049134,45.64035089,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13608455.84,6095117.461,17,29,29,Snohomish County Public Transportation Benefit Area Corporation,Everett,WA,-122.2468387,47.92939954,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13617592.18,6040431.074,19,40,40,Central Puget Sound Regional Transit Authority,Seattle,WA,-122.3289119,47.59918749,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13394524.41,6018366.57,20,43,43,Chelan Douglas PTBA,Wenatchee,WA,-120.32506,47.465362,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13032041.12,5847605.598,24,51,51,Asotin County,Clarkston,WA,-117.0688172,46.41810329,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13176039.58,5789932.235,29,64,64,Valley Transit,Walla Walla,WA,-118.3623774,46.05976783,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-13630326.37,5983693.146,420,28,,County of Pierce,Tacoma,WA,-122.4433051,47.25437078,No - Agency data not available due to processing or GTFS standard compliance errors.
+-13134513.36,6088079.196,421,207,,Spokane Tribe of Indians,Wellpinit,WA,-117.989341,47.887018,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9841450.565,5506055.32,210,50001,50001,City of Appleton,Appleton,WI,-88.4072546,44.26185915,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9949962.498,5323100.163,211,50005,50005,City of Madison,Madison,WI,-89.38203388,43.073068,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9788715.338,5320416.629,212,50008,50008,Milwaukee County,Milwaukee,WI,-87.933526,43.055456,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9856265.306,5468679.82,213,50009,50009,"City of Oshkosh, Wisconsin",Oshkosh,WI,-88.54033769,44.02091772,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9764218.874,5426971.68,239,50088,50088,City of Sheboygan,Sheboygan,WI,-87.71347052,43.7508852,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-10185620.24,5591982.3,241,50099,50099,City of Eau Claire,Eau Claire,WI,-91.49898341,44.81205843,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9911498.848,5235645.916,243,50109,50109,City of Beloit,Beloit,WI,-89.03650904,42.49650379,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-9796343.84,5545764.777,474,50002,,City of Green Bay,Green Bay,WI,-88.002054,44.516769,No - Agency data not available due to processing or GTFS standard compliance errors.
+-9846002.334,5430621.462,486,50171,,"Fond du Lac, Wisconsin",Fond Du Lac,WI,-88.44814384,43.77456399,No - Agency data not available due to processing or GTFS standard compliance errors.
+-8903149.085,4812208.807,131,30089,30089,Monongalia County Urban Mass Transit Authority,Morgantown,WV,-79.978349,39.629233,Yes - Agency fetch URL available and in compliance with GTFS standards.
+-11836223.55,5289355.853,515,80013,,City of Casper,Casper,WY,-106.3266052,42.8512364,No - Agency data not available due to processing or GTFS standard compliance errors.
